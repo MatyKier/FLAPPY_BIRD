@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1685881170 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\bird.cpp
+	"Bird.h"
+
+1685881416 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\bird.h
+
+1685881202 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\endmenucontroller.cpp
+	"EndMenuController.h"
+
+1685881440 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\endmenucontroller.h
+	<SFML/Graphics.hpp>
+	"EndMenuText.h"
+	"Game.h"
+
+1685881467 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\endmenutext.h
+	<SFML/Graphics.hpp>
+
+1685881484 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\game.h
+	"Bird.h"
+	"Pipe.h"
+	"GameText.h"
+	<SFML/Audio.hpp>
+
+1685881610 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\pipe.h
+
+1685881528 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\gametext.h
+	<SFML/Graphics.hpp>
+	<vector>
+	"Bird.h"
+	"Pipe.h"
+
+1685881224 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\endmenutext.cpp
+	"EndMenuText.h"
+
+1686141942 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\game.cpp
+	"Game.h"
+	"Pipe.h"
+	<SFML/Audio.hpp>
+	<stdlib.h>
+
+1685881265 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\gamecontroller.cpp
+	"GameController.h"
+	"GameText.h"
+	"Game.h"
+
+1685881511 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\gamecontroller.h
+	"Game.h"
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1685881284 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\gametext.cpp
+	"GameText.h"
+	<iostream>
+
+1685881300 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<SFML/Window.hpp>
+	"GameController.h"
+	"GameText.h"
+	"Bird.h"
+	"Pipe.h"
+	"Mode.h"
+
+1685881594 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\mode.h
+	<SFML/Graphics.hpp>
+	"Game.h"
+	"GameText.h"
+	"GameController.h"
+	"MainMenuText.h"
+	"MainMenuController.h"
+	"EndMenuText.h"
+	"EndMenuController.h"
+
+1685881580 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\mainmenutext.h
+	<SFML/Graphics.hpp>
+	<vector>
+
+1685881547 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\mainmenucontroller.h
+	<SFML/Graphics.hpp>
+	"Game.h"
+	"MainMenuText.h"
+	"Pipe.h"
+
+1685881324 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\mainmenucontroller.cpp
+	"MainMenuController.h"
+	"MainMenuText.h"
+
+1685881345 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\mainmenutext.cpp
+	"MainMenuText.h"
+
+1685881369 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\mode.cpp
+	"Mode.h"
+
+1685881382 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\flappybird-sfml\pipe.cpp
+	"Pipe.h"
+
